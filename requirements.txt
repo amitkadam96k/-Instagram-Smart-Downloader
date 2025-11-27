@@ -1,0 +1,4 @@
+instaloader
+moviepy
+imageio
+imageio-ffmpeg
